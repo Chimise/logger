@@ -1,0 +1,6 @@
+WARN: hello
+WARN: hello
+WARN: hello
+WARN: hello
+WARN: hello
+WARN: hello
